@@ -30,12 +30,12 @@ Here are the changes I noticed:
 
 | N    | dt   | Result                                   |
 | ---- | ---- | ---------------------------------------- |
-| 25   | 0.05 | Vehicle leaves the track. Video.         |
-| 20   | 0.05 | Vehicle leaves the track. Video.         |
-| 15   | 0.1  | Vehicle completes the track with some fluctuations |
-| 15   | 0.15 | Vehicle complets track with slower velocity |
-| 12   | 0.1  | Vehicle completes the track              |
-| 10   | 0.1  | Vehicle completes the track.             |
+| 25   | 0.05 | Vehicle leaves the track. [Video](https://www.youtube.com/watch?v=OCM1M5laV9c). |
+| 20   | 0.05 | Vehicle leaves the track. [Video](https://www.youtube.com/watch?v=DnmgsLtciuk). |
+| 15   | 0.1  | Vehicle completes the track with some fluctuations. [Video](https://www.youtube.com/watch?v=-P-wQq8wTLA). |
+| 15   | 0.15 | Vehicle complets track with slower velocity. [Video](https://www.youtube.com/watch?v=TjZo8wH53tY). |
+| 12   | 0.1  | Vehicle completes the track. [Video](https://www.youtube.com/watch?v=8eluF1dm4hU). |
+| 10   | 0.1  | Vehicle completes the track. [Video](https://www.youtube.com/watch?v=iokg7KOfELQ). |
 
 So, I end up at N=12(over N=10) and dt=0.1. 
 
