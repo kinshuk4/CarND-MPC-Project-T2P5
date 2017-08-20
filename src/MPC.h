@@ -8,7 +8,7 @@ using namespace std;
 
 // This is the length from front to CoG that has a similar radius.
 const double Lf = 2.67;
-// TODO: Set the timestep length and duration
+// DONE: Set the timestep length and duration
 const size_t N = 10;
 const double dt = 0.1;
 const int num_missed_controls = 100/(dt*1000);
